@@ -6,7 +6,7 @@ UI of the app is very simple, and the rules of the game is pretty similar to the
 Your goal is to win several rounds without wasting your balance, thereby emptying the opponent's wallet! 
 
 Here are some screenshots from the app: 
-![alt text](https://github.com/MetahCoder/Blackjack/blob/master/main_menu.png){:height="50%" width="50%"}
+![test image size](https://github.com/MetahCoder/Blackjack/blob/master/main_menu.png){:height="50%" width="50%"}
 ![alt text](https://github.com/MetahCoder/Blackjack/blob/master/opponentsMenu.png){:height="50%" width="50%"}
 ![alt text](https://github.com/MetahCoder/Blackjack/blob/master/info.png){:height="50%" width="50%"}
 ![alt text](https://github.com/MetahCoder/Blackjack/blob/master/game1.png){:height="50%" width="50%"}
