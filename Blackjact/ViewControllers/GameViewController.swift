@@ -510,8 +510,8 @@ class GameViewController: UIViewController, GameVCProtocol {
     }
     
     @IBAction func split(_ sender: Any) {
-        let alert = UIAlertController(title: "Купите полную версию.", message: "Разработчику лень прорабатывать функцию split. Скиньте денежку ему на карту, может передумает.", preferredStyle: .alert)
-        let action = UIAlertAction(title: "Ну ладно", style: .default, handler: {(action) in
+        let alert = UIAlertController(title: "Buy a full version of the app.", message: "The dev of the application is too lazy to work on the 'split' functionality. Send him money plz, so maybe he will change his decision.", preferredStyle: .alert)
+        let action = UIAlertAction(title: "Okay :(", style: .default, handler: {(action) in
             self.dismiss(animated: true, completion: nil)
         })
         
