@@ -7,7 +7,7 @@ Your goal is to win several rounds without wasting your balance, thereby emptyin
 
 Here are some screenshots from the app: 
 ![alt text](https://github.com/MetahCoder/Blackjack/blob/master/main_menu.png)
-![alt text](https://github.com/MetahCoder/Blackjack/blob/master/enemiesMenu.png)
+![alt text](https://github.com/MetahCoder/Blackjack/blob/master/opponentsMenu.png)
 ![alt text](https://github.com/MetahCoder/Blackjack/blob/master/info.png)
 ![alt text](https://github.com/MetahCoder/Blackjack/blob/master/game1.png)
 ![alt text](https://github.com/MetahCoder/Blackjack/blob/master/game2.png)
