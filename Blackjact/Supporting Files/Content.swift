@@ -15,7 +15,7 @@ struct Content {
     static let modelsMax = ["Shrek": 5, "Bauka": 2]
     
     static let infoText = """
-    Sanzhar Dyusengali is a genius, billionaire, philanthropist and playboy. He owns companies like Hornpub, Valfe, Playgirl, Donerka & Grill, Cupersell, Vouis Litton and the world's largest donkey waste production and processing plant.
+    Sanzhar Dyusengali is a genius, billionaire, philanthropist and playboy. He owns companies like Valfe, Donerka & Grill, Cupersell, Vouis Litton and the world's largest donkey waste production and processing plant.
 
     Mr. Dyusengali also founded a number of successful and not very startups: dogWalkingService, stickersNIS, clashRoyaleAccounts and many others(hard to remember all).
 
